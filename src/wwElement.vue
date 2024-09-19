@@ -10,5 +10,6 @@ export default {
 </script>
 
 <template>
+  <span> {{ randomProp }}</span>
   <wwLayout path="slot" />
 </template>
