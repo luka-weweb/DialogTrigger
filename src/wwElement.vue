@@ -5,7 +5,6 @@ export default {
     wwFrontState: { type: Object, required: true },
     wwEditorState: { type: Object, required: true },
   },
-  c,
 };
 </script>
 
